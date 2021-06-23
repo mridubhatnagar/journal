@@ -3,6 +3,7 @@ Daily learning logs
 
 Page: https://mridubhatnagar.github.io/journal/
 
+- [23-06-2021](23-06-2021.md)
 - [21-06-2021](21-06-2021.md)
 
 - [16-06-2021](16-06-2021.md)
